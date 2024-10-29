@@ -1,2 +1,2 @@
 # odin-recipes
-This is a recipe website done for The Odin Project
+This is a website to showcase some of my favorite recipes from the web!!!
