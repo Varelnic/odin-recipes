@@ -1,0 +1,15 @@
+/* style.css */
+#title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    background-color: red;
+}
+
+.food {
+      font-weight: bold;
+}
+
+.photo{
+    width: 300px;
+    height: auto;
+}
